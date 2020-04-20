@@ -16,5 +16,8 @@
     "lerna": "^3.13.1",
     "run-script-os": "^1.0.7"
   },
+	"engines": {
+    "node": "12.16.x"
+  }
   "postcss": {}
 }
